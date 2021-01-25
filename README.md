@@ -77,7 +77,7 @@ A modern, enterprise-ready business intelligence web application.
 
 ## Why Superset?
 
-Superset provides:
+Superset provides :
 
 * An intuitive interface for visualizing datasets and
     crafting interactive dashboards
